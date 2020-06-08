@@ -1,0 +1,30 @@
+#success-message {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 30px;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, .9);
+}
+
+#checkCircle{
+    color:var(--primary-color);
+    font-size: 2em;
+}
+
+#message {
+    color: white;
+}
+
+#arrow-left{
+    position: absolute;
+    top: 5vh;
+    left: 5vw;
+    color:var(--primary-color);
+    font-size: 1.5em;
+    margin-top: 1em;
+    display: flex;
+    align-items: center;
+}
