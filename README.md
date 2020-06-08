@@ -6,7 +6,9 @@ Project developed during the Next Level Week-1 by Rocketseat
 
 Inside the server folder, open terminal and run the following:
 
+
 "npm run knex:migrate" to create the database schema (sqlite)
+
 "npm run knex:seed" to populate the tables with data used in the application.
 
 ## web page and mobile
